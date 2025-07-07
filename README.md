@@ -20,6 +20,12 @@ Try the project directly on Hugging Face Spaces without downloading anything:
 
 [![Hugging Face Space](https://img.shields.io/badge/HuggingFace-Demo-blue?logo=huggingface)](https://huggingface.co/spaces/Salaar-Saaiem/Ai-Based_Garbage_Classification_using_ML)
 
+Watch the DEMO here 
+
+[![Watch Demo](https://img.shields.io/badge/🎬-Watch%20Demo-blue?style=for-the-badge)](https://www.linkedin.com/posts/salaarsaaiem525_machinelearning-deeplearning-computervision-activity-7347607976746147840-Biun?utm_source=share&utm_medium=member_desktop)
+
+
+
 ---
 
 ## Features
