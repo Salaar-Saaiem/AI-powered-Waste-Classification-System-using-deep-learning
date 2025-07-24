@@ -1,6 +1,6 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Salaar-Saaiem.Garbage-Classification-using-ML)
 <br>
-# 🗑 Smart Waste Segregation using EfficientNet + Custom CNN (Garbage Classification)
+# 🗑 Smart Waste classification using EfficientNet + Custom CNN (Garbage Classification)
 
 A deep learning project that classifies waste images into 6 recyclable categories using a hybrid CNN model built by fine-tuning EfficientNetV2B2 with custom Convolutional Neural Network layers. The project includes a web-based interface using Gradio with support for image upload and real-time webcam capture.
 
