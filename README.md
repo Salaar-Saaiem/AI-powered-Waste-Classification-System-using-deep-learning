@@ -1,6 +1,6 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Salaar-Saaiem.Garbage-Classification-using-ML)
 <br>
-# 🗑 Smart Waste classification using EfficientNet + Custom CNN (Garbage Classification)
+# <picture> <img src="https://github.com/Salaar-Saaiem/AI-powered-Waste-Classification-System-using-deep-learning/blob/09cbfd480d9bf6ee9b9a5f812da2efa5509b344d/Assets/530.gif?raw=true" alt="🐾" width="32" height="32"></picture> Smart Waste classification using EfficientNet + Custom CNN (Garbage Classification)
 
 A deep learning project that classifies waste images into 6 recyclable categories using a hybrid CNN model built by fine-tuning EfficientNetV2B2 with custom Convolutional Neural Network layers. The project includes a web-based interface using Gradio with support for image upload and real-time webcam capture.
 
@@ -14,7 +14,7 @@ A deep learning project that classifies waste images into 6 recyclable categorie
 - 🧴 Plastic  
 - 🚮 Trash 
 ---
-## Live Demo
+## <picture><img src="https://github.com/Salaar-Saaiem/EV-Adoption-Forecasting/blob/25cf376c3e3e651dad009fde041aab5d2da213c0/Assets/518.gif?raw=true" alt="👾" width="32" height="32"></picture> Live Demo
 
 Try the project directly on Hugging Face Spaces without downloading anything:
 
@@ -28,7 +28,7 @@ Watch the DEMO here
 
 ---
 
-## Features
+## <picture> <img src="https://github.com/Salaar-Saaiem/EV-Adoption-Forecasting/blob/25cf376c3e3e651dad009fde041aab5d2da213c0/Assets/515.gif?raw=true" alt="🚀" width="32" height="32"></picture> Features
 
 -  **Hybrid Architecture** – Combines EfficientNetV2B2 with fine-tuned custom CNN layers for superior accuracy and robustness.
 -  **Transfer Learning Enabled** – Uses pre-trained EfficientNet weights for faster convergence and better generalization.
@@ -43,7 +43,7 @@ Watch the DEMO here
 -  **Code Modularity** – Separated files for training, deployment, evaluation, and webcam utility.
 
 ---
-## ⚙️ Model Architecture 
+## <picture> <img src="https://github.com/Salaar-Saaiem/EV-Adoption-Forecasting/blob/25cf376c3e3e651dad009fde041aab5d2da213c0/Assets/520.gif?raw=true" alt="🐾" width="32" height="32"></picture> Model Architecture 
 
 <p align="center">
   <img src="https://github.com/Salaar-Saaiem/Garbage-Classification-using-ML/blob/main/Assets/Architecture Diagram.png" alt="Accuracy & Loss" width="700"/>
@@ -59,7 +59,8 @@ The visual above represents the complete training and evaluation pipeline. It us
 </p>
 
 ---
-## 📊 Model Evaluation
+
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="32" height="32"></picture> Model Evaluation
 
 ### Accuracy & Loss Curves
 
@@ -106,8 +107,7 @@ Following are the test results showing the model predictions on sample images fr
 
 ---
 
-
-## Tech Stack
+## <picture><img src="https://github.com/Salaar-Saaiem/EV-Adoption-Forecasting/blob/25cf376c3e3e651dad009fde041aab5d2da213c0/Assets/514.gif?raw=true" alt="⚙" width="32" height="32"></picture> **Tech Stack**
 
 -  **TensorFlow / Keras** – Core deep learning framework used for building, training, fine-tuning, and saving models.
 -  **EfficientNetV2B2** – Transfer learning backbone pre-trained on ImageNet, integrated for better performance and faster convergence.
@@ -124,6 +124,6 @@ Following are the test results showing the model predictions on sample images fr
 
 ---
 
-## 📄 Ownership & License
+## <picture> <img src="https://github.com/Salaar-Saaiem/EV-Adoption-Forecasting/blob/25cf376c3e3e651dad009fde041aab5d2da213c0/Assets/517.gif?raw=true" alt="🫆" width="32" height="32"></picture> Ownership & License
 
 This project is the intellectual property of [Saaiem Salaar](https://www.linkedin.com/in/salaarsaaiem525) and is licensed under the [MIT License](LICENSE). This means you are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software for personal or commercial purposes, provided that proper credit is given and the original license and copyright notice are included in all copies or substantial portions of the software. The software is provided "as is", without any warranty of any kind, express or implied, and the author is not liable for any claims, damages, or other liabilities arising from its use.
