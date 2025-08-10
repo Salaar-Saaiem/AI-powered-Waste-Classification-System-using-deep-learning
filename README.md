@@ -109,16 +109,18 @@ Following are the test results showing the model predictions on sample images fr
 
 ## <picture><img src="https://github.com/Salaar-Saaiem/EV-Adoption-Forecasting/blob/25cf376c3e3e651dad009fde041aab5d2da213c0/Assets/514.gif?raw=true" alt="⚙" width="32" height="32"></picture> **Tech Stack**
 
--  **TensorFlow / Keras** – Core deep learning framework used for building, training, fine-tuning, and saving models.
--  **EfficientNetV2B2** – Transfer learning backbone pre-trained on ImageNet, integrated for better performance and faster convergence.
--  **Custom CNN Layers** – Tailored layers added over EfficientNet for domain-specific fine-tuning and improved accuracy.
--  **tf.keras.preprocessing & ImageDataGenerator** – For real-time image augmentation, scaling, and train-validation-test pipeline.
--  **Matplotlib & Seaborn** – For visualizing performance metrics like learning curves, confusion matrix, and prediction results.
--  **Scikit-learn** – For generating classification reports, precision, recall, and F1-score.
--  **Gradio** – For browser-based UI that supports both image upload and live webcam input for real-time predictions.
--  **Python 3.10** – Programming language used throughout the entire project.
--  **NumPy & Pandas** – For efficient numerical operations and dataset handling.
--  **Jupyter Notebook** – For model experimentation, prototyping, and performance evaluation.
+| Technology / Library | Purpose |
+|----------------------|---------|
+| **TensorFlow / Keras** | Core deep learning framework used for building, training, fine-tuning, and saving models. |
+| **EfficientNetV2B2** | Transfer learning backbone pre-trained on ImageNet, integrated for better performance and faster convergence. |
+| **Custom CNN Layers** | Tailored layers added over EfficientNet for domain-specific fine-tuning and improved accuracy. |
+| **tf.keras.preprocessing & ImageDataGenerator** | For real-time image augmentation, scaling, and train-validation-test pipeline. |
+| **Matplotlib & Seaborn** | For visualizing performance metrics like learning curves, confusion matrix, and prediction results. |
+| **Scikit-learn** | For generating classification reports, precision, recall, and F1-score. |
+| **Gradio** | For browser-based UI that supports both image upload and live webcam input for real-time predictions. |
+| **Python 3.10** | Programming language used throughout the entire project. |
+| **NumPy & Pandas** | For efficient numerical operations and dataset handling. |
+| **Jupyter Notebook** | For model experimentation, prototyping, and performance evaluation. |
 
 
 
