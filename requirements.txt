@@ -5,3 +5,5 @@ seaborn
 scikit-learn
 opencv-python
 gradio
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
+python-multipart>=0.0.22 # not directly required, pinned by Snyk to avoid a vulnerability
